@@ -45,3 +45,5 @@ Thumbs.db
 *.token
 *.key
 openai_token.txt 
+*.zip
+*.assets/
